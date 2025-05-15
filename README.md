@@ -55,9 +55,8 @@ Smart Trash Truck Routing is a web application for optimizing waste collection r
 
 2. **Install dependencies:**
    ```sh
-   pnpm install
+   npm install --legacy-peer-deps
    ```
-   Or use `npm install` or `yarn` if you prefer.
 
 ### Running the Development Server
 
