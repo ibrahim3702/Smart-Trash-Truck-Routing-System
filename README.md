@@ -49,7 +49,7 @@ Smart Trash Truck Routing is a web application for optimizing waste collection r
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/ibrahim3702/Smart-Trash-Truck-Routing-System.git
    cd smart-trash-routing
    ```
 
